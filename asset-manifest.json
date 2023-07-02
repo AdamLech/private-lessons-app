@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/private-lessons-app/static/css/main.9154ded7.css",
+    "main.js": "/private-lessons-app/static/js/main.61d6717e.js",
+    "static/js/787.30237536.chunk.js": "/private-lessons-app/static/js/787.30237536.chunk.js",
+    "index.html": "/private-lessons-app/index.html",
+    "main.9154ded7.css.map": "/private-lessons-app/static/css/main.9154ded7.css.map",
+    "main.61d6717e.js.map": "/private-lessons-app/static/js/main.61d6717e.js.map",
+    "787.30237536.chunk.js.map": "/private-lessons-app/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9154ded7.css",
+    "static/js/main.61d6717e.js"
+  ]
+}
