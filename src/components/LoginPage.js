@@ -6,7 +6,7 @@ const Login = () => {
     <>
       <div className="page-body">
         <div className="top-box">
-          <img src="https://via.placeholder.com/100" alt="example image" />
+          <img src="https://via.placeholder.com/100" alt="example logo" />
           <h3>Hello!</h3>
           <h5>It's nice to see you</h5>
         </div>
