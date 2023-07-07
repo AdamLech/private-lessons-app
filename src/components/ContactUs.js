@@ -2,7 +2,7 @@ import React from "react";
 import "../index.css";
 
 function ContactUs() {
-  return <></>;
+  return <>Test</>;
 }
 
 export default ContactUs;
