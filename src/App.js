@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import images from "./images/images-export";
-import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
+import { Redirect, BrowserRouter, Route, Routes, Link } from "react-router-dom";
 import Login from "./components/LoginPage";
 import ContactUs from "./components/ContactUs";
 import HomePage from "./components/HomePage";
