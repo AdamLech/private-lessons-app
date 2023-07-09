@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/private-lessons-app/static/css/main.ba30f38e.css",
-    "main.js": "/private-lessons-app/static/js/main.8565502a.js",
+    "main.css": "/private-lessons-app/static/css/main.bdc71102.css",
+    "main.js": "/private-lessons-app/static/js/main.8edddc53.js",
     "static/js/787.30237536.chunk.js": "/private-lessons-app/static/js/787.30237536.chunk.js",
     "static/media/mainpagebg2.png": "/private-lessons-app/static/media/mainpagebg2.d268dd7599fdc1614326.png",
     "static/media/mainpagebg3.png": "/private-lessons-app/static/media/mainpagebg3.ce7147a298e9cafaba87.png",
     "static/media/mainpagebg.png": "/private-lessons-app/static/media/mainpagebg.7215ad11435d9f7f848c.png",
     "static/media/mainpagebg4.png": "/private-lessons-app/static/media/mainpagebg4.0d0331bca43120225da9.png",
-    "static/media/science.png": "/private-lessons-app/static/media/science.65aadf13198ba193ecca.png",
-    "static/media/statistics.png": "/private-lessons-app/static/media/statistics.0434873197ea12792a66.png",
-    "static/media/location.png": "/private-lessons-app/static/media/location.40600a94ff38b2a95503.png",
-    "static/media/notes.png": "/private-lessons-app/static/media/notes.6449b43ccd72074a2f6a.png",
+    "static/media/science.png": "/private-lessons-app/static/media/science.bf53afe7e6ca72480892.png",
+    "static/media/statistics.png": "/private-lessons-app/static/media/statistics.cc767e42e91e4f000319.png",
+    "static/media/location.png": "/private-lessons-app/static/media/location.c41b878247ced1865c17.png",
+    "static/media/notes.png": "/private-lessons-app/static/media/notes.8b93bc09d0f5acce1990.png",
     "static/media/hearts.png": "/private-lessons-app/static/media/hearts.75d41dae98b3f8e85faf.png",
     "static/media/checkmark.png": "/private-lessons-app/static/media/checkmark.8c5a8eefd367cce690f0.png",
     "index.html": "/private-lessons-app/index.html",
-    "main.ba30f38e.css.map": "/private-lessons-app/static/css/main.ba30f38e.css.map",
-    "main.8565502a.js.map": "/private-lessons-app/static/js/main.8565502a.js.map",
+    "main.bdc71102.css.map": "/private-lessons-app/static/css/main.bdc71102.css.map",
+    "main.8edddc53.js.map": "/private-lessons-app/static/js/main.8edddc53.js.map",
     "787.30237536.chunk.js.map": "/private-lessons-app/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba30f38e.css",
-    "static/js/main.8565502a.js"
+    "static/css/main.bdc71102.css",
+    "static/js/main.8edddc53.js"
   ]
 }
